@@ -3,4 +3,4 @@ import math
 a = 3
 b = 5
 c = 3
-p = (a + b + c)
+p = (a + b + c) / 2
